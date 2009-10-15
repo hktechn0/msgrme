@@ -1,0 +1,19 @@
+############################################################
+# Settings
+############################################################
+# Database
+HOST     = "localhost"
+USER     = "dbuser"
+PASSWD   = "dbpass"
+DBNAME   = "dbname"
+CHARSET  = "utf8"
+
+# Website
+SITE     = "http://example.com/"
+IMGDIR   = "http://example.com/img/"
+DIMGDIR  = "http://example.com/dimg/"
+
+# Dynamic image
+FONTDIR  = "/usr/share/fonts/"
+FONTSIZE = 16
+SAVEDIR  = "dimg/"

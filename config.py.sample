@@ -1,0 +1,20 @@
+# Messenger
+SERVER   = ('messenger.hotmail.com', 1863)
+ACCOUNT  = ('hogehoge@live.com', 'passwd')
+BOT_NAME = u'displayname'
+BOT_MSG  = u'comment'
+
+# Detabase
+HOST    = "localhost"
+USER    = "dbuser"
+PASSWD  = "dbpass"
+DBNAME  = "dbname"
+CHARSET = "utf8"
+
+# Website
+SITE	= "http://example.com/"
+SCRIPT	= "mme.py/"
+
+# Other
+FOOTER  = "\nMessage Footer"
+SYNC_INTERVAL = 10000
